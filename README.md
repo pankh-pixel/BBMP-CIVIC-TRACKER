@@ -14,6 +14,6 @@ I got tired of seeing civic complaints disappear into a bureaucratic black hole.
 
 ## 🗺️ Progress Tracker
 - [x] Phase 1: Repo setup and raw data extraction.
-- [ ] Phase 2: Data cleaning and normalization (Pandas).
+- [x] Phase 2: Data cleaning and normalization (Pandas).
 - [ ] Phase 3: SQL querying and bottleneck analysis.
 - [ ] Phase 4: Streamlit dashboard deployment.

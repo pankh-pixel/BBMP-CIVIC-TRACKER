@@ -33,8 +33,8 @@ This project currently operates via a robust 3-stage data engineering methodolog
 * **Top Performers:** SQL analysis dynamically identifies the Top 10 wards with the highest statistical resolution rates in the city.
 
 ## Repository Structure
-* `cleaning_pipeline.ipynb`: The Colab notebook containing the raw extraction, Pandas transformation, and SQL engine.
-* `bbmp_clean_2025.csv`: The sanitized dataset exported from the pipeline.
+* `Untitled4.ipynb`: The initial notebook handling the extraction of the live 2025 BBMP dataset via Python and Pandas.
+* `civic_tracker.ipynb`: The core analysis notebook containing the SQLite in-memory database and the queries to find the top 10 most efficient wards.
 
 ---
 *Built in public to bring transparent, constructive data to civic infrastructure. Interactive web visualization coming soon!*
